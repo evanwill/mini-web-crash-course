@@ -102,6 +102,7 @@ Notice that your `about.md` has been converted into `about.html` and put in a fa
 
 Behind the scene, gh-pages is running [Jekyll](https://jekyllrb.com/) static site generator. 
 Jekyll automatically converted your Markdown into a lovely web page using a builtin theme.
+This website is created in the same way: content written in basic markdown is converted into the *incredibly* beautiful pages you see here by the [workshop-template-b](https://github.com/evanwill/workshop-template-b) theme.
 
 ## Resources
 
