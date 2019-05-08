@@ -12,7 +12,7 @@ title-icon: fas fa-code
 # description and keywords for meta tags
 description: "Very quick intro to basic web concepts using GitHub and GitHub Pages"
 keywords: "workshops, websites, gh-pages, html, markdown"
-featured-image: "/images/uidaho-workshop.jpg"
+featured-image: "/images/hello-html.png"
 
 # author settings for cc-by, appears in the footer
 author: evan will
