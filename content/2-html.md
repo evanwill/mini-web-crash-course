@@ -6,6 +6,11 @@ nav: true
 # HTML *(in a few minutes)*
 
 The web is made up of HTML, CSS, and JS (*mostly*).
+
+- HTML provides the structure and content
+- CSS provides the style
+- JS provides the interactivity
+
 When you access a website, the server sends your computer the code, and your browser renders it into a web page.
 Thus, you have the code for every web page you visit on your machine.
 
