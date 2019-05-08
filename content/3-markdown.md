@@ -7,7 +7,7 @@ nav: true
 
 [Markdown](https://daringfireball.net/projects/markdown/) is a standard to simplify writing content for the web.
 A handful of simple conventions translate into the basic HTML elements, making it quick to write and edit. 
-Markdown can be used any where on GitHub, in popular static site generators such as Jekyll, and to create documents using Pandoc.
+Markdown can be used any where on GitHub, in popular static site generators such as Jekyll, and to create documents using [Pandoc](https://pandoc.org/) or a Markdown editor.
 
 ## Create a Markdown File
 
@@ -108,8 +108,8 @@ This website is created in the same way: content written in basic markdown is co
 
 - GitHub Guide [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [GitHub markdown flavor](https://help.github.com/articles/basic-writing-and-formatting-syntax/) 
-- [Dillinger](https://dillinger.io/) Markdown editor
-- [Pandoc](https://pandoc.org/)
+- [Dillinger](https://dillinger.io/), online Markdown editor
+- [Pandoc](https://pandoc.org/), utility to convert between formats, such as Markdown to PDF or DOCX.
 
 <script>
 function markdownToggle() {
