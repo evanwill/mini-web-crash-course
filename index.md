@@ -5,9 +5,9 @@ layout: default
 
 # *Mini* Web Crash Course!
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+A very quick intro to basic web concepts using GitHub and GitHub Pages...
 
-Very quick intro to basic web concepts using GitHub and GitHub Pages
+{% include figure.html img="markus-spiske-666905-unsplash.jpg" alt="terminal with text" %}
 
 {% include toc.html %}
 
